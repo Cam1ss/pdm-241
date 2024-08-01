@@ -1,5 +1,10 @@
 # Prints das saídas 📸
 
+# Banco de Dados Criado
+
+![Banco-de-dados](https://github.com/user-attachments/assets/d0344bfc-6db8-472a-ae45-5260386c4b8a)
+
+# Postman
 ![Post-criar-aluno](https://github.com/user-attachments/assets/8cd7db51-2028-45e9-bcc2-bfbb899effb7)
 
 ![GET-listar-alunos](https://github.com/user-attachments/assets/e2a53d75-6ec4-467d-8430-1c72f6a7cce1)
