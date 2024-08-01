@@ -18,5 +18,5 @@
 ## e) excluir_aluno exclui um registro da tabela TB_ALUNO a partir de um campo id e dos dados de uma entidade aluno
 ![DELETE_DeletarAluno](https://github.com/user-attachments/assets/8ef68f9c-6ebe-4282-a16f-e3b2235f2efd)
 
-## Feito em dupla 🤝  <a href="https://github.com/frmsth" target="_self" rel="external">Antonio Abner</a> 
+## Feito em dupla 🤝  <a href="https://github.com/frsmth" target="_self" rel="external">Antonio Abner</a> 
 
