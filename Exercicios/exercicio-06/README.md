@@ -1,4 +1,4 @@
-#Prints das saídas 📸
+# Prints das saídas 📸
 
 ![Post-criar-aluno](https://github.com/user-attachments/assets/8cd7db51-2028-45e9-bcc2-bfbb899effb7)
 
